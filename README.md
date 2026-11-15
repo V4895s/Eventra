@@ -52,13 +52,7 @@ MongoDB collections (`reviews`, `activity`) are created automatically on first w
 | GitHub and team contributions | `docs/TEAM.md` |
 | Test cases, screenshots, report | `docs/TESTING.md`, `scripts/smoke-test.js`, `docs/REPORT.md` |
 
-## What you still have to do yourself
-The files here have not been run against live MySQL or MongoDB, because neither was available where this was built.
-1. Run every SQL file, plus `queries.sql` and `evidence.sql`, in a MySQL client and **screenshot the real output**. Your instructor wants executed statements, not just code.
-2. Walk through `docs/TESTING.md`, fill in the results and add screenshots.
-3. Fill in `docs/TEAM.md`, commit as a team, and push to GitHub.
-4. Write the final report from `docs/REPORT.md`. Due 15 November 2026, 23:59.
-5. If anything fails on first run, send me the error and I'll fix it.
+
 
 ## Demo script
 1. Show `schema.sql`, then run `queries.sql` section by section in the MySQL console.
